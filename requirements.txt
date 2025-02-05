@@ -1,0 +1,8 @@
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
+conda
+Speechrecoginition
+pyttsx3
